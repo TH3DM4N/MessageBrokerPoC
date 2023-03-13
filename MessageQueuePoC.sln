@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sender", "Sender\Sender.csproj", "{00AAAC77-2D80-4830-9986-E5452C1A933D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Receiver", "Receiver\Receiver.csproj", "{BF581270-EAA4-4E7A-A27E-40199C7D1AC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecondReceiver", "SecondReceiver\SecondReceiver.csproj", "{20A4DA54-C2CB-4511-B34F-59D8A19D20AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00AAAC77-2D80-4830-9986-E5452C1A933D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00AAAC77-2D80-4830-9986-E5452C1A933D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00AAAC77-2D80-4830-9986-E5452C1A933D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00AAAC77-2D80-4830-9986-E5452C1A933D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF581270-EAA4-4E7A-A27E-40199C7D1AC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF581270-EAA4-4E7A-A27E-40199C7D1AC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF581270-EAA4-4E7A-A27E-40199C7D1AC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF581270-EAA4-4E7A-A27E-40199C7D1AC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20A4DA54-C2CB-4511-B34F-59D8A19D20AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20A4DA54-C2CB-4511-B34F-59D8A19D20AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20A4DA54-C2CB-4511-B34F-59D8A19D20AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20A4DA54-C2CB-4511-B34F-59D8A19D20AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

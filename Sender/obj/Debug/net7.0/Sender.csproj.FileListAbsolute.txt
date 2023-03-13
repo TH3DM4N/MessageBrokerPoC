@@ -1,0 +1,17 @@
+/Users/dylanpicus/RiderProjects/MessageQueuePoC/Sender/bin/Debug/net7.0/Sender
+/Users/dylanpicus/RiderProjects/MessageQueuePoC/Sender/bin/Debug/net7.0/Sender.deps.json
+/Users/dylanpicus/RiderProjects/MessageQueuePoC/Sender/bin/Debug/net7.0/Sender.runtimeconfig.json
+/Users/dylanpicus/RiderProjects/MessageQueuePoC/Sender/bin/Debug/net7.0/Sender.dll
+/Users/dylanpicus/RiderProjects/MessageQueuePoC/Sender/bin/Debug/net7.0/Sender.pdb
+/Users/dylanpicus/RiderProjects/MessageQueuePoC/Sender/bin/Debug/net7.0/RabbitMQ.Client.dll
+/Users/dylanpicus/RiderProjects/MessageQueuePoC/Sender/obj/Debug/net7.0/Sender.csproj.AssemblyReference.cache
+/Users/dylanpicus/RiderProjects/MessageQueuePoC/Sender/obj/Debug/net7.0/Sender.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dylanpicus/RiderProjects/MessageQueuePoC/Sender/obj/Debug/net7.0/Sender.AssemblyInfoInputs.cache
+/Users/dylanpicus/RiderProjects/MessageQueuePoC/Sender/obj/Debug/net7.0/Sender.AssemblyInfo.cs
+/Users/dylanpicus/RiderProjects/MessageQueuePoC/Sender/obj/Debug/net7.0/Sender.csproj.CoreCompileInputs.cache
+/Users/dylanpicus/RiderProjects/MessageQueuePoC/Sender/obj/Debug/net7.0/Sender.csproj.CopyComplete
+/Users/dylanpicus/RiderProjects/MessageQueuePoC/Sender/obj/Debug/net7.0/Sender.dll
+/Users/dylanpicus/RiderProjects/MessageQueuePoC/Sender/obj/Debug/net7.0/refint/Sender.dll
+/Users/dylanpicus/RiderProjects/MessageQueuePoC/Sender/obj/Debug/net7.0/Sender.pdb
+/Users/dylanpicus/RiderProjects/MessageQueuePoC/Sender/obj/Debug/net7.0/Sender.genruntimeconfig.cache
+/Users/dylanpicus/RiderProjects/MessageQueuePoC/Sender/obj/Debug/net7.0/ref/Sender.dll

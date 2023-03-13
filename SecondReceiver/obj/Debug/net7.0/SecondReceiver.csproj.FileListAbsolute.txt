@@ -1,0 +1,17 @@
+/Users/dylanpicus/RiderProjects/MessageQueuePoC/SecondReceiver/bin/Debug/net7.0/SecondReceiver
+/Users/dylanpicus/RiderProjects/MessageQueuePoC/SecondReceiver/bin/Debug/net7.0/SecondReceiver.deps.json
+/Users/dylanpicus/RiderProjects/MessageQueuePoC/SecondReceiver/bin/Debug/net7.0/SecondReceiver.runtimeconfig.json
+/Users/dylanpicus/RiderProjects/MessageQueuePoC/SecondReceiver/bin/Debug/net7.0/SecondReceiver.dll
+/Users/dylanpicus/RiderProjects/MessageQueuePoC/SecondReceiver/bin/Debug/net7.0/SecondReceiver.pdb
+/Users/dylanpicus/RiderProjects/MessageQueuePoC/SecondReceiver/bin/Debug/net7.0/RabbitMQ.Client.dll
+/Users/dylanpicus/RiderProjects/MessageQueuePoC/SecondReceiver/obj/Debug/net7.0/SecondReceiver.csproj.AssemblyReference.cache
+/Users/dylanpicus/RiderProjects/MessageQueuePoC/SecondReceiver/obj/Debug/net7.0/SecondReceiver.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dylanpicus/RiderProjects/MessageQueuePoC/SecondReceiver/obj/Debug/net7.0/SecondReceiver.AssemblyInfoInputs.cache
+/Users/dylanpicus/RiderProjects/MessageQueuePoC/SecondReceiver/obj/Debug/net7.0/SecondReceiver.AssemblyInfo.cs
+/Users/dylanpicus/RiderProjects/MessageQueuePoC/SecondReceiver/obj/Debug/net7.0/SecondReceiver.csproj.CoreCompileInputs.cache
+/Users/dylanpicus/RiderProjects/MessageQueuePoC/SecondReceiver/obj/Debug/net7.0/SecondReceiver.csproj.CopyComplete
+/Users/dylanpicus/RiderProjects/MessageQueuePoC/SecondReceiver/obj/Debug/net7.0/SecondReceiver.dll
+/Users/dylanpicus/RiderProjects/MessageQueuePoC/SecondReceiver/obj/Debug/net7.0/refint/SecondReceiver.dll
+/Users/dylanpicus/RiderProjects/MessageQueuePoC/SecondReceiver/obj/Debug/net7.0/SecondReceiver.pdb
+/Users/dylanpicus/RiderProjects/MessageQueuePoC/SecondReceiver/obj/Debug/net7.0/SecondReceiver.genruntimeconfig.cache
+/Users/dylanpicus/RiderProjects/MessageQueuePoC/SecondReceiver/obj/Debug/net7.0/ref/SecondReceiver.dll

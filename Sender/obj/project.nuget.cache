@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HoApdjgtiN9v9IQB0EO8yEfbn46cON8Hdtksh8tkzma7fKjdTP7MO25hZElGjNwwVErFRILHDu2a9Ms1pfNErQ==",
+  "success": true,
+  "projectFilePath": "/Users/dylanpicus/RiderProjects/MessageQueuePoC/Sender/Sender.csproj",
+  "expectedPackageFiles": [
+    "/Users/dylanpicus/.nuget/packages/rabbitmq.client/6.4.0/rabbitmq.client.6.4.0.nupkg.sha512",
+    "/Users/dylanpicus/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/dylanpicus/.nuget/packages/system.threading.channels/4.7.1/system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
